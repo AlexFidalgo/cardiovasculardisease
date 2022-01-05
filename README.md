@@ -11,6 +11,6 @@ Observe que a variação da precisão dada pelo time de especialistas, faz com q
 
 O seu objetivo como o Cientista de Dados contratado pela Cardio Catch Diseases é [criar uma ferramenta que aumente a precisão do diagnóstico e que essa precisão seja estável] para todos os diagnósticos.
 
-*Qual a Acurácia e a Precisão da ferramenta?*
-_Quanto lucro a Cardio Catch Diseases passará a ter com a nova ferramenta?_
-~Qual a Confiabilidade do resultado dados pela nova ferramenta?~
+Qual a Acurácia e a Precisão da ferramenta?
+Quanto lucro a Cardio Catch Diseases passará a ter com a nova ferramenta?
+Qual a Confiabilidade do resultado dados pela nova ferramenta?
