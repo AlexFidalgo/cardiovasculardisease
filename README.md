@@ -1,7 +1,7 @@
 # Cardiovascular Disease
 Classification problem
 
-A Cadio Catch Diseases é uma empresa especializada em detecção de doenças cardíacas em estágios iniciais. O seu modelo de negócio é do tipo Serviço, ou seja, a empresa oferece o [diagnóstico precoce de uma doença cardiovascular] por um certo preço.
+A Cadio Catch Diseases é uma empresa especializada em detecção de doenças cardíacas em estágios iniciais. O seu modelo de negócio é do tipo Serviço, ou seja, a empresa oferece o *[diagnóstico precoce de uma doença cardiovascular]* por um certo preço.
 
 Atualmente, o diagnóstico de uma doença cardiovascular é feita manualmente por uma equipe de especialistas. A precisão atual do diagnóstico varia entre 55% e 65%, devido a complexidade do diagnóstico e também da fadiga da equipe que se revezam em turnos para minimizar os riscos. O [custo de cada diagnóstico], incluindo os aparelhos e a folha de pagamento dos analistas, gira em torno de [R$ 1.000,00].
 
