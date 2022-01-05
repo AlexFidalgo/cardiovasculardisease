@@ -1,4 +1,4 @@
-# cardiovasculardisease
+# Cardiovascular Disease
 Classification problem
 
 A Cadio Catch Diseases é uma empresa especializada em detecção de doenças cardíacas em estágios iniciais. O seu modelo de negócio é do tipo Serviço, ou seja, a empresa ofereço o diagnóstico precoce de uma doença cardiovascular por um certo preço.
